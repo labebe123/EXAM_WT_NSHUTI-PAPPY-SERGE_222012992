@@ -1,0 +1,31 @@
+#welcome-image-div{
+    padding:0px;
+    height: 650px;
+    background: url('girl-style-shoes-jeans-2048x1152.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    transition: background-position-y 5000ms ;
+}
+li{
+    display: inline-block;
+}
+.home-nav-btn{
+    margin-top: 70px;
+    float: right;
+    margin-right: 50px;
+}
+#home-page-footer{
+    background-color: black;
+    height: 400px;
+}
+#home-image{
+    background-color: #0000004d;
+    width: 100%;
+    height: 100%;
+}
+#welcome-image-div:hover{
+   background-position-y: -100px;
+}
+#home-page-body{
+    text-align: center;
+}

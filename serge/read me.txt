@@ -1,0 +1,4 @@
+1.admin email: admin@gmail.com
+2.admin password: admin
+3.To open admin panel use localhost/virtual cutomer service/admin.php
+
